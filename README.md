@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasali-dev" alt="waqasali-dev" /></a> </p>
 
-- 🔭 I’m currently working on [my first react project(whatsaap-clone)]([https://github.com/waqasali-dev/alarm-clock.git](https://github.com/waqasali-dev/whatsap-clone))
+- 🔭 I’m currently working on [my first react project(whatsaap-clone)]([https://github.com/waqasali-dev/whatsap-clone])
 
 - 🌱 I’m currently learning **APIs, database(DBS)**
 
