@@ -30,7 +30,7 @@
 ```text
  ┌───────────────────────────────────────────────────────────────────────────┐
  │                                                                           │
- │   🚀  Currently working on  : WhatsApp Clone (React)                       │
+ │   🚀  Currently working on  : Garage Management (React)                       │
  │   🌱  Currently learning    : Node.js, Express.js, Databases & REST APIs   │
  │   💬  Ask me about          : JavaScript, React, Web Development           │
  │   📫  How to reach me       : waqassahab77@gmail.com                     │
@@ -69,7 +69,7 @@
 
 <br />
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -98,7 +98,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasali-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<br />
+<br /> -->
 
 ## 🐍 Contribution Graph
 
